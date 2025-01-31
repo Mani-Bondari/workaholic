@@ -28,3 +28,9 @@ Workaholic leverages workstation cameras and AI models to track individual emplo
 - **Flags potential productivity issues**, allowing for proactive intervention before performance declines.
 - **Generates detailed performance reports**, offering supervisors an objective evaluation tool rather than relying solely on subjective assessments.
 By providing a transparent and data-driven evaluation system, Workaholic helps organizations cultivate a fair, efficient, and highly productive workforce while reducing bias in performance reviews.
+
+### Employee notes
+Employees have access to a dedicated section within their profile where they can submit personal notes regarding their workplace experience. This feature allows them to express job satisfaction, raise concerns, submit requests, or provide any relevant feedback. By offering a direct and confidential channel for communication, Workaholic fosters a transparent and employee-centric work environment.
+
+## Accumulation
+Based on the selected services, managers, supervisors, and executives receive a detailed, data-driven assessment of workplace efficiency. This analysis consolidates multiple performance metrics—ranging from attendance and productivity insights to AI-driven efficiency evaluations. Additionally, Workaholic generates actionable recommendations tailored to enhance workflow, optimize resource allocation, and improve overall operational effectiveness.
