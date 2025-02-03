@@ -4,7 +4,7 @@
 
 ## Services
 
-### employee attendance tracking
+### Employee attendance tracking
 
 Workaholic automates clock-in and clock-out tracking using facial recognition, ensuring precise and fraud-proof attendance records without the need for manual input. This system:
 
