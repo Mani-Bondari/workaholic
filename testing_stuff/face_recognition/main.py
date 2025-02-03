@@ -1,5 +1,3 @@
-# main.py
-
 import sys
 from data_collection import collect_face_data
 from recognition import recognize_faces
@@ -19,8 +17,10 @@ def main():
             sys.exit(1)
         name = sys.argv[2]
         collect_face_data(name)
+
     elif command == "recognize":
         recognize_faces()
+
     else:
         print("Unknown command. Use 'collect' or 'recognize'.")
 
